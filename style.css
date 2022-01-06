@@ -32,3 +32,26 @@ margin-bottom: 10%;
 .year{
     color: orange;
 }
+.three-div{
+    width: 30%;
+    padding-left: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+#mission{
+background-color: gray;
+border-radius: 15px;
+}
+#vission{
+background-color: indianred;
+border-radius: 15px;
+}
+#goals{
+background-color: navajowhite;
+border-radius: 15px;
+}
+.three-div img{
+    width: 30%;
+    padding-left: 3px;
+}
