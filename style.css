@@ -65,9 +65,22 @@ border-radius: 15px;
     padding: 12px 21px;
     border-radius: 7px;
 }
-.bbb{
+.background-image-one{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 30%;
+}
+.background-image-two{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-size: 19%;
+}
+.button-three{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 12px 21px;
+    border-radius: 7px;
 }
