@@ -85,6 +85,7 @@ border-radius: 15px;
     background-position: unset;
     background-size: 19%;
 }
+    
 .button-three{
     text-decoration: none;
     background-color: tomato;
@@ -103,4 +104,14 @@ border-radius: 15px;
 }
 .year-color-two{
     color: tomato;
+}
+.corona{
+   color:midnightblue;
+    background-image: url(images/shapes/shape-9.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 22%;
+}
+.stay-home{
+    color: gold;
 }
