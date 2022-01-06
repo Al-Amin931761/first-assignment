@@ -84,3 +84,14 @@ border-radius: 15px;
     padding: 12px 21px;
     border-radius: 7px;
 }
+
+.last-part{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.year-color-two{
+    color: tomato;
+}
