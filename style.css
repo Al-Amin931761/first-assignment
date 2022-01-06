@@ -4,6 +4,12 @@ h1{
 .mission-2022-color{
     color: orange;
 }
+.border-color{
+    border-left: 10px solid;
+    border-color: red;
+    
+ 
+}
 
 .flexiable-section{
 display: flex;
@@ -21,12 +27,13 @@ margin-bottom: 10%;
     padding-left: 20px;
     
 }
-.explore-now-link{
+.button-one{
     text-decoration: none;
     background-color: tomato;
     color: white;
     padding: 12px 21px;
     border-radius: 7px;
+    font-weight: 700;
 }
 .header-two{
     text-align: center;
@@ -64,6 +71,7 @@ border-radius: 15px;
     color: white;
     padding: 12px 21px;
     border-radius: 7px;
+    font-weight: 700;
 }
 .background-image-one{
     background-image: url(images/shapes/shape-1.png);
@@ -83,6 +91,7 @@ border-radius: 15px;
     color: white;
     padding: 12px 21px;
     border-radius: 7px;
+    font-weight: 700;
 }
 
 .last-part{
