@@ -58,3 +58,16 @@ border-radius: 15px;
     padding-left: 2px;
     
 }
+.button-two{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 12px 21px;
+    border-radius: 7px;
+}
+.bbb{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30%;
+}
